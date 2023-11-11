@@ -1,0 +1,13 @@
+C:\Users\aluno\Desktop\aula2\Aula2\bin\Debug\Aula2.exe.config
+C:\Users\aluno\Desktop\aula2\Aula2\bin\Debug\Aula2.exe
+C:\Users\aluno\Desktop\aula2\Aula2\bin\Debug\Aula2.pdb
+C:\Users\aluno\Desktop\aula2\Aula2\obj\Debug\Aula2.csproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\aula2\Aula2\obj\Debug\Aula2.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\Desktop\aula2\Aula2\obj\Debug\Aula2.FrmUsuario.resources
+C:\Users\aluno\Desktop\aula2\Aula2\obj\Debug\Aula2.Properties.Resources.resources
+C:\Users\aluno\Desktop\aula2\Aula2\obj\Debug\Aula2.csproj.GenerateResource.cache
+C:\Users\aluno\Desktop\aula2\Aula2\obj\Debug\Aula2.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\aula2\Aula2\obj\Debug\Aula2.exe
+C:\Users\aluno\Desktop\aula2\Aula2\obj\Debug\Aula2.pdb
+C:\Users\aluno\Desktop\aula2\Aula2\obj\Debug\Aula2.FrmLogin.resources
+C:\Users\aluno\Desktop\aula2\Aula2\obj\Debug\Aula2.FrmPrincipal.resources
